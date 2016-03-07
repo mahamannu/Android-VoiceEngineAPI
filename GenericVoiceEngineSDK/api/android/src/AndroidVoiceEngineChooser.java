@@ -2,11 +2,7 @@
  *
  * AndroidVoiceEngineChooser.java
  *
- * Create on 9/3/13
- * Author: <A HREF="mailto:nathan@atheerlabs.com">Nathan Abercrombie</A>
  *
- * Copyright (C) 2013 Atheer Labs, Inc. All rights reserved.
- *     ATHEER PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
 package atheer.android.voice;
